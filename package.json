@@ -26,5 +26,8 @@
     "ts-node-dev": "^1.0.0-pre.43",
     "tslint": "^5.20.0",
     "typescript": "^3.6.4"
+  },
+  "devDependencies": {
+    "prettier-tslint": "^0.4.2"
   }
 }
